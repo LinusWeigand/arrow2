@@ -1,6 +1,7 @@
 # THIS CRATE IS UNMAINTAINED
 As of 2024-01-17 this crate is no longer maintained. See discussion [#1429]
 for more details.
+test
 
 [#1429]: https://github.com/jorgecarleitao/arrow2/issues/1429
 
